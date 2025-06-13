@@ -1,6 +1,6 @@
 name = 'antrasupbitas'
 type = "javascript"
 main = "index.js"
-
+compatibility_date = "2025-06-13"
 workers_dev = true
  
