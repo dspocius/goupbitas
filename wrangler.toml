@@ -1,0 +1,6 @@
+name = "goupbitas"
+type = "javascript"
+main = "index.js"
+
+workers_dev = true
+compatibility_date = "2025-06-13"
