@@ -110,7 +110,7 @@ app.get('/binancealpha', async function (req, res) {
     }
 });
 app.listen(PORT, HOST, () => {
-	loadPupeteer();
+	//loadPupeteer();
     console.log(`Server is running at http://${HOST}:${PORT}/`);
 });
 /*
